@@ -1,0 +1,24 @@
+## Hi there, I am Khoa. 👋
+
+
+### About me
+
+- 🔭 &nbsp; I’m currently working on Cerner's Registration & Eligibility team.
+- 🌱 &nbsp; I’m currently learning Rust.
+- 📫 &nbsp; How to reach me: https://lendkhoa.gitlab.io/
+- 😄 &nbsp; Pronouns: he/him/his
+
+### Social
+[![Linkedin: sandipsubedi](https://img.shields.io/badge/-KhoaLe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KhoaLe/)](www.linkedin.com/in/khoaleNguyenDang) &nbsp;
+[![GitHub Sandip Subedi](https://img.shields.io/github/followers/sandipsubedi?label=follow&style=social)](https://github.com/lendkhoa/)
+
+
+### Tech Stack
+- 💻  &nbsp; Java | Rust | Maven
+- 🌐  &nbsp; HTML | CSS | JavaScript | BootStrap | Node.js
+- 💾  &nbsp; MySQL | MongoDB
+- 🔧  &nbsp; Git
+
+[![Khoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lendkhoa&show_icons=true)](https://github.com/lendkhoa)
+
+[![Khoa's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lendkhoa&layout=compact&theme=radical)](https://github.com/lendkhoa)
