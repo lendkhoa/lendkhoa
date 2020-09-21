@@ -1,6 +1,6 @@
-* Hi there, I am Khoa. 👋
+# Hi there, I am Khoa. 👋
 
-** About me
+##  About me
 
 🔭 I’m currently working on Cerner's Registration & Eligibility team.
 
@@ -10,15 +10,13 @@
 
 😄 Pronouns: he/him/his
 
-** Social
-[[https://img.shields.io/badge/-KhoaLe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoaleNguyenDang/]]
+## Social
 
-#+BEGIN_SRC markdown
 [![Linkedin: Khoa Le]([[https://img.shields.io/badge/-KhoaLe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoaleNguyenDang/)](https://www.linkedin.com/in/khoaleNguyenDang/) &nbsp;
-#+END_SRC
 
 
-** Tech Stack
+## Tech Stack
+
 💻  Java | Rust | Python | Maven
 
 🌐  HTML | CSS | JavaScript | BootStrap | Node.js
@@ -27,8 +25,6 @@
 
 🔧  Git
 
-#+BEGIN_SRC markdown
 [![Khoa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khoa Le&show_icons=true)](https://github.com/lendkhoa)
 
 [![Khoa Le's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lendkhoa&layout=compact&theme=radical)](https://github.com/lendkhoa)
-#+END_SRC
