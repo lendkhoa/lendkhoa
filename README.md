@@ -10,11 +10,11 @@
 
 😄 Pronouns: he/him/his
 
-📝 [[][Resume]]
+📝 [Resume](https://github.com/lendkhoa)
 
 ## Social
 
-[![Linkedin: khoaleNguyenDang]([[https://img.shields.io/badge/-khoaleNguyenDang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoaleNguyenDang/)](https://www.linkedin.com/in/khoaleNguyenDang/) &nbsp;
+[![Linkedin: khoaleNguyenDang](https://img.shields.io/badge/-khoaleNguyenDang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoaleNguyenDang/)](https://www.linkedin.com/in/khoaleNguyenDang/) &nbsp;
 
 
 ## Tech Stack
