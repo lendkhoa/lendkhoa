@@ -6,13 +6,13 @@
 
 🌱 I’m currently learning Rust.
 
-📫 Check out my [[https://lendkhoa.gitlab.io/][blog]] 
+📫 Check out my [blog](https://lendkhoa.gitlab.io/) 
 
 😄 Pronouns: he/him/his
 
 ## Social
 
-[![Linkedin: Khoa Le]([[https://img.shields.io/badge/-KhoaLe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoaleNguyenDang/)](https://www.linkedin.com/in/khoaleNguyenDang/) &nbsp;
+[![Linkedin: Khoa Le]([[https://img.shields.io/badge/-khoaleNguyenDang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoaleNguyenDang/)](https://www.linkedin.com/in/khoaleNguyenDang/) &nbsp;
 
 
 ## Tech Stack
@@ -25,6 +25,6 @@
 
 🔧  Git
 
-[![Khoa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khoa Le&show_icons=true)](https://github.com/lendkhoa)
+[![Khoa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lendkhoa&show_icons=true)](https://github.com/lendkhoa)
 
 [![Khoa Le's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lendkhoa&layout=compact&theme=radical)](https://github.com/lendkhoa)
