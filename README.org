@@ -11,9 +11,7 @@
 😄 Pronouns: he/him/his
 
 ** Social
-[[https://img.shields.io/badge/-KhoaLe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KhoaLe/][Linkedin: Khoa Le]]
-
-[[https://img.shields.io/github/followers/sandipsubedi?label=follow&style=social)][Github: Khoa Le]]
+[[https://img.shields.io/badge/-KhoaLe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KhoaLe/]]
 
 
 ** Tech Stack
