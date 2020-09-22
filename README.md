@@ -10,7 +10,7 @@
 
 😄 Pronouns: he/him/his
 
-📝 [Resume](https://github.com/lendkhoa)
+📝 [Resume](./resume_2020.pdf)
 
 ## Social
 
