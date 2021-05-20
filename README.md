@@ -2,7 +2,7 @@
 
 ##  About me
 
-🔭 Software engineer at Thirty Madison
+🔭 I'm joining Thirty Madison as a software engineer
 
 🌱 I’m currently learning Rust & Ruby.
 
