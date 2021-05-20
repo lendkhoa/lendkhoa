@@ -2,9 +2,9 @@
 
 ##  About me
 
-🔭 I’m currently working on Cerner's Registration & Eligibility team.
+🔭 Software engineer at Thirty Madison
 
-🌱 I’m currently learning Rust.
+🌱 I’m currently learning Rust & Ruby.
 
 📫 Check out my [blog](https://lendkhoa.gitlab.io/) 
 
