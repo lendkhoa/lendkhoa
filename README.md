@@ -2,7 +2,7 @@
 
 ##  About me
 
-🔭 I'm joining Thirty Madison as a software engineer
+🔭 I'm joining Caire Health as a software engineer
 
 🌱 I’m currently learning Rust & Ruby.
 
