@@ -2,10 +2,6 @@
 
 ##  About me
 
-🔭 I'm joining Caire Health as a software engineer
-
-🌱 I’m currently learning Rust & Ruby.
-
 📫 Check out my [blog](https://lendkhoa.gitlab.io/) 
 
 😄 Pronouns: he/him/his
